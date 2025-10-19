@@ -1,0 +1,201 @@
+scene_id,event_id,crime_type,suspect,victim,object,location,action,timestamp,notes
+2,1,robbery,Evan Cole,Nina Park,wallet,parking lot,threatened,2024-05-01T13:30:00,Evan Cole threatened Nina Park using a wallet at parking lot around 13:30.
+2,2,robbery,Evan Cole,Nina Park,jewelry,parking lot,fled,2024-05-01T13:35:00,Evan Cole fled Nina Park using a jewelry at parking lot around 13:35.
+3,1,robbery,Marcus Lee,Tom Smith,knife,apartment,threatened,2024-05-01T15:03:00,Marcus Lee threatened Tom Smith using a knife at apartment around 15:03.
+3,2,robbery,Marcus Lee,Tom Smith,knife,apartment,fled,2024-05-01T15:08:00,Marcus Lee fled Tom Smith using a knife at apartment around 15:08.
+4,1,homicide,Alice Green,Nina Park,phone,alleyway,argued with,2024-05-01T23:27:00,Alice Green argued with Nina Park using a phone at alleyway around 23:27.
+4,2,homicide,Alice Green,Nina Park,wallet,alleyway,attacked,2024-05-01T23:37:00,Alice Green attacked Nina Park using a wallet at alleyway around 23:37.
+5,1,homicide,Sara Patel,David Ross,handgun,convenience store,argued with,2024-05-01T02:02:00,Sara Patel argued with David Ross using a handgun at convenience store around 02:02.
+5,2,homicide,Sara Patel,David Ross,phone,convenience store,shot,2024-05-01T02:12:00,Sara Patel shot David Ross using a phone at convenience store around 02:12.
+6,1,homicide,Alice Green,Robert King,knife,convenience store,argued with,2024-05-01T15:03:00,Alice Green argued with Robert King using a knife at convenience store around 15:03.
+6,2,homicide,Alice Green,Robert King,jewelry,convenience store,argued with,2024-05-01T15:13:00,Alice Green argued with Robert King using a jewelry at convenience store around 15:13.
+7,1,robbery,Evan Cole,Tom Smith,knife,downtown street,stole,2024-05-01T09:13:00,Evan Cole stole Tom Smith using a knife at downtown street around 09:13.
+7,2,robbery,Evan Cole,Tom Smith,phone,downtown street,fled,2024-05-01T09:18:00,Evan Cole fled Tom Smith using a phone at downtown street around 09:18.
+8,1,robbery,John Doe,Tom Smith,wallet,convenience store,entered,2024-05-01T18:15:00,John Doe entered Tom Smith using a wallet at convenience store around 18:15.
+8,2,robbery,John Doe,Tom Smith,wallet,convenience store,fled,2024-05-01T18:20:00,John Doe fled Tom Smith using a wallet at convenience store around 18:20.
+9,1,robbery,Marcus Lee,David Ross,wallet,alleyway,entered,2024-05-01T09:41:00,Marcus Lee entered David Ross using a wallet at alleyway around 09:41.
+9,2,robbery,Marcus Lee,David Ross,phone,alleyway,fled,2024-05-01T09:46:00,Marcus Lee fled David Ross using a phone at alleyway around 09:46.
+10,1,robbery,Alice Green,David Ross,phone,parking lot,stole,2024-05-01T00:25:00,Alice Green stole David Ross using a phone at parking lot around 00:25.
+10,2,robbery,Alice Green,David Ross,knife,parking lot,fled,2024-05-01T00:30:00,Alice Green fled David Ross using a knife at parking lot around 00:30.
+11,1,robbery,Sara Patel,Nina Park,wallet,convenience store,stole,2024-05-01T19:57:00,Sara Patel stole Nina Park using a wallet at convenience store around 19:57.
+11,2,robbery,Sara Patel,Nina Park,knife,convenience store,fled,2024-05-01T20:02:00,Sara Patel fled Nina Park using a knife at convenience store around 20:02.
+12,1,robbery,Evan Cole,David Ross,wallet,parking lot,stole,2024-05-01T07:09:00,Evan Cole stole David Ross using a wallet at parking lot around 07:09.
+12,2,robbery,Evan Cole,David Ross,jewelry,parking lot,fled,2024-05-01T07:14:00,Evan Cole fled David Ross using a jewelry at parking lot around 07:14.
+13,1,robbery,Sara Patel,David Ross,jewelry,alleyway,stole,2024-05-01T05:47:00,Sara Patel stole David Ross using a jewelry at alleyway around 05:47.
+13,2,robbery,Sara Patel,David Ross,jewelry,alleyway,fled,2024-05-01T05:52:00,Sara Patel fled David Ross using a jewelry at alleyway around 05:52.
+14,1,robbery,Sara Patel,Robert King,knife,downtown street,entered,2024-05-01T09:12:00,Sara Patel entered Robert King using a knife at downtown street around 09:12.
+14,2,robbery,Sara Patel,Robert King,wallet,downtown street,fled,2024-05-01T09:17:00,Sara Patel fled Robert King using a wallet at downtown street around 09:17.
+15,1,robbery,Alice Green,Robert King,wallet,downtown street,fled,2024-05-01T22:05:00,Alice Green fled Robert King using a wallet at downtown street around 22:05.
+15,2,robbery,Alice Green,Robert King,knife,downtown street,fled,2024-05-01T22:10:00,Alice Green fled Robert King using a knife at downtown street around 22:10.
+16,1,homicide,Evan Cole,David Ross,jewelry,parking lot,argued with,2024-05-01T01:37:00,Evan Cole argued with David Ross using a jewelry at parking lot around 01:37.
+16,2,homicide,Evan Cole,David Ross,jewelry,parking lot,attacked,2024-05-01T01:47:00,Evan Cole attacked David Ross using a jewelry at parking lot around 01:47.
+17,1,robbery,John Doe,Nina Park,jewelry,parking lot,fled,2024-05-01T16:40:00,John Doe fled Nina Park using a jewelry at parking lot around 16:40.
+17,2,robbery,John Doe,Nina Park,knife,parking lot,fled,2024-05-01T16:45:00,John Doe fled Nina Park using a knife at parking lot around 16:45.
+18,1,homicide,Marcus Lee,David Ross,knife,convenience store,argued with,2024-05-01T19:41:00,Marcus Lee argued with David Ross using a knife at convenience store around 19:41.
+18,2,homicide,Marcus Lee,David Ross,knife,convenience store,argued with,2024-05-01T19:51:00,Marcus Lee argued with David Ross using a knife at convenience store around 19:51.
+19,1,robbery,Evan Cole,David Ross,crowbar,apartment,entered,2024-05-01T01:12:00,Evan Cole entered David Ross using a crowbar at apartment around 01:12.
+19,2,robbery,Evan Cole,David Ross,crowbar,apartment,fled,2024-05-01T01:17:00,Evan Cole fled David Ross using a crowbar at apartment around 01:17.
+20,1,homicide,Alice Green,Robert King,jewelry,downtown street,argued with,2024-05-01T05:43:00,Alice Green argued with Robert King using a jewelry at downtown street around 05:43.
+20,2,homicide,Alice Green,Robert King,jewelry,downtown street,shot,2024-05-01T05:53:00,Alice Green shot Robert King using a jewelry at downtown street around 05:53.
+21,1,robbery,Evan Cole,Linda Brown,wallet,apartment,entered,2024-05-01T10:21:00,Evan Cole entered Linda Brown using a wallet at apartment around 10:21.
+21,2,robbery,Evan Cole,Linda Brown,knife,apartment,fled,2024-05-01T10:26:00,Evan Cole fled Linda Brown using a knife at apartment around 10:26.
+22,1,homicide,John Doe,Tom Smith,wallet,apartment,argued with,2024-05-01T14:43:00,John Doe argued with Tom Smith using a wallet at apartment around 14:43.
+22,2,homicide,John Doe,Tom Smith,knife,apartment,stabbed,2024-05-01T14:53:00,John Doe stabbed Tom Smith using a knife at apartment around 14:53.
+23,1,robbery,Sara Patel,Nina Park,wallet,convenience store,fled,2024-05-01T14:11:00,Sara Patel fled Nina Park using a wallet at convenience store around 14:11.
+23,2,robbery,Sara Patel,Nina Park,jewelry,convenience store,fled,2024-05-01T14:16:00,Sara Patel fled Nina Park using a jewelry at convenience store around 14:16.
+24,1,homicide,Sara Patel,Tom Smith,handgun,parking lot,argued with,2024-05-01T05:23:00,Sara Patel argued with Tom Smith using a handgun at parking lot around 05:23.
+24,2,homicide,Sara Patel,Tom Smith,wallet,parking lot,attacked,2024-05-01T05:33:00,Sara Patel attacked Tom Smith using a wallet at parking lot around 05:33.
+25,1,homicide,John Doe,Tom Smith,handgun,downtown street,argued with,2024-05-01T11:59:00,John Doe argued with Tom Smith using a handgun at downtown street around 11:59.
+25,2,homicide,John Doe,Tom Smith,handgun,downtown street,shot,2024-05-01T12:09:00,John Doe shot Tom Smith using a handgun at downtown street around 12:09.
+26,1,robbery,Alice Green,Robert King,jewelry,downtown street,fled,2024-05-01T19:12:00,Alice Green fled Robert King using a jewelry at downtown street around 19:12.
+26,2,robbery,Alice Green,Robert King,handgun,downtown street,fled,2024-05-01T19:17:00,Alice Green fled Robert King using a handgun at downtown street around 19:17.
+27,1,robbery,Marcus Lee,Nina Park,phone,alleyway,entered,2024-05-01T12:39:00,Marcus Lee entered Nina Park using a phone at alleyway around 12:39.
+27,2,robbery,Marcus Lee,Nina Park,crowbar,alleyway,fled,2024-05-01T12:44:00,Marcus Lee fled Nina Park using a crowbar at alleyway around 12:44.
+28,1,homicide,Sara Patel,Robert King,wallet,apartment,argued with,2024-05-01T16:53:00,Sara Patel argued with Robert King using a wallet at apartment around 16:53.
+28,2,homicide,Sara Patel,Robert King,phone,apartment,argued with,2024-05-01T17:03:00,Sara Patel argued with Robert King using a phone at apartment around 17:03.
+29,1,robbery,Sara Patel,Tom Smith,phone,parking lot,stole,2024-05-01T21:47:00,Sara Patel stole Tom Smith using a phone at parking lot around 21:47.
+29,2,robbery,Sara Patel,Tom Smith,knife,parking lot,fled,2024-05-01T21:52:00,Sara Patel fled Tom Smith using a knife at parking lot around 21:52.
+30,1,homicide,John Doe,Tom Smith,phone,apartment,argued with,2024-05-01T02:36:00,John Doe argued with Tom Smith using a phone at apartment around 02:36.
+30,2,homicide,John Doe,Tom Smith,phone,apartment,shot,2024-05-01T02:46:00,John Doe shot Tom Smith using a phone at apartment around 02:46.
+31,1,robbery,Sara Patel,Robert King,knife,alleyway,entered,2024-05-01T14:53:00,Sara Patel entered Robert King using a knife at alleyway around 14:53.
+31,2,robbery,Sara Patel,Robert King,handgun,alleyway,fled,2024-05-01T14:58:00,Sara Patel fled Robert King using a handgun at alleyway around 14:58.
+32,1,robbery,Alice Green,Nina Park,knife,parking lot,stole,2024-05-01T06:45:00,Alice Green stole Nina Park using a knife at parking lot around 06:45.
+32,2,robbery,Alice Green,Nina Park,knife,parking lot,fled,2024-05-01T06:50:00,Alice Green fled Nina Park using a knife at parking lot around 06:50.
+33,1,homicide,Marcus Lee,Tom Smith,handgun,downtown street,argued with,2024-05-01T05:16:00,Marcus Lee argued with Tom Smith using a handgun at downtown street around 05:16.
+33,2,homicide,Marcus Lee,Tom Smith,handgun,downtown street,shot,2024-05-01T05:26:00,Marcus Lee shot Tom Smith using a handgun at downtown street around 05:26.
+34,1,robbery,Marcus Lee,Robert King,crowbar,apartment,fled,2024-05-01T05:59:00,Marcus Lee fled Robert King using a crowbar at apartment around 05:59.
+34,2,robbery,Marcus Lee,Robert King,handgun,apartment,fled,2024-05-01T06:04:00,Marcus Lee fled Robert King using a handgun at apartment around 06:04.
+35,1,robbery,Evan Cole,Linda Brown,jewelry,apartment,entered,2024-05-01T10:19:00,Evan Cole entered Linda Brown using a jewelry at apartment around 10:19.
+35,2,robbery,Evan Cole,Linda Brown,wallet,apartment,fled,2024-05-01T10:24:00,Evan Cole fled Linda Brown using a wallet at apartment around 10:24.
+36,1,robbery,Sara Patel,Robert King,wallet,apartment,fled,2024-05-01T19:47:00,Sara Patel fled Robert King using a wallet at apartment around 19:47.
+36,2,robbery,Sara Patel,Robert King,knife,apartment,fled,2024-05-01T19:52:00,Sara Patel fled Robert King using a knife at apartment around 19:52.
+37,1,homicide,Sara Patel,Tom Smith,handgun,downtown street,argued with,2024-05-01T18:33:00,Sara Patel argued with Tom Smith using a handgun at downtown street around 18:33.
+37,2,homicide,Sara Patel,Tom Smith,wallet,downtown street,shot,2024-05-01T18:43:00,Sara Patel shot Tom Smith using a wallet at downtown street around 18:43.
+38,1,homicide,Marcus Lee,Nina Park,crowbar,downtown street,argued with,2024-05-01T20:44:00,Marcus Lee argued with Nina Park using a crowbar at downtown street around 20:44.
+38,2,homicide,Marcus Lee,Nina Park,knife,downtown street,stabbed,2024-05-01T20:54:00,Marcus Lee stabbed Nina Park using a knife at downtown street around 20:54.
+39,1,robbery,Alice Green,Robert King,handgun,parking lot,entered,2024-05-01T04:48:00,Alice Green entered Robert King using a handgun at parking lot around 04:48.
+39,2,robbery,Alice Green,Robert King,phone,parking lot,fled,2024-05-01T04:53:00,Alice Green fled Robert King using a phone at parking lot around 04:53.
+40,1,robbery,Alice Green,Linda Brown,knife,convenience store,fled,2024-05-01T17:06:00,Alice Green fled Linda Brown using a knife at convenience store around 17:06.
+40,2,robbery,Alice Green,Linda Brown,wallet,convenience store,fled,2024-05-01T17:11:00,Alice Green fled Linda Brown using a wallet at convenience store around 17:11.
+41,1,homicide,John Doe,Nina Park,crowbar,convenience store,argued with,2024-05-01T02:02:00,John Doe argued with Nina Park using a crowbar at convenience store around 02:02.
+41,2,homicide,John Doe,Nina Park,phone,convenience store,attacked,2024-05-01T02:12:00,John Doe attacked Nina Park using a phone at convenience store around 02:12.
+42,1,robbery,Sara Patel,Linda Brown,phone,convenience store,entered,2024-05-01T17:58:00,Sara Patel entered Linda Brown using a phone at convenience store around 17:58.
+42,2,robbery,Sara Patel,Linda Brown,wallet,convenience store,fled,2024-05-01T18:03:00,Sara Patel fled Linda Brown using a wallet at convenience store around 18:03.
+43,1,robbery,John Doe,Nina Park,wallet,convenience store,entered,2024-05-01T04:45:00,John Doe entered Nina Park using a wallet at convenience store around 04:45.
+43,2,robbery,John Doe,Nina Park,wallet,convenience store,fled,2024-05-01T04:50:00,John Doe fled Nina Park using a wallet at convenience store around 04:50.
+44,1,homicide,Evan Cole,Linda Brown,phone,alleyway,argued with,2024-05-01T15:09:00,Evan Cole argued with Linda Brown using a phone at alleyway around 15:09.
+44,2,homicide,Evan Cole,Linda Brown,crowbar,alleyway,argued with,2024-05-01T15:19:00,Evan Cole argued with Linda Brown using a crowbar at alleyway around 15:19.
+45,1,robbery,Alice Green,David Ross,crowbar,alleyway,entered,2024-05-01T21:27:00,Alice Green entered David Ross using a crowbar at alleyway around 21:27.
+45,2,robbery,Alice Green,David Ross,knife,alleyway,fled,2024-05-01T21:32:00,Alice Green fled David Ross using a knife at alleyway around 21:32.
+46,1,robbery,Marcus Lee,Tom Smith,crowbar,downtown street,stole,2024-05-01T05:02:00,Marcus Lee stole Tom Smith using a crowbar at downtown street around 05:02.
+46,2,robbery,Marcus Lee,Tom Smith,wallet,downtown street,fled,2024-05-01T05:07:00,Marcus Lee fled Tom Smith using a wallet at downtown street around 05:07.
+47,1,robbery,Sara Patel,Robert King,phone,downtown street,entered,2024-05-01T06:30:00,Sara Patel entered Robert King using a phone at downtown street around 06:30.
+47,2,robbery,Sara Patel,Robert King,handgun,downtown street,fled,2024-05-01T06:35:00,Sara Patel fled Robert King using a handgun at downtown street around 06:35.
+48,1,robbery,Sara Patel,Tom Smith,knife,alleyway,stole,2024-05-01T14:32:00,Sara Patel stole Tom Smith using a knife at alleyway around 14:32.
+48,2,robbery,Sara Patel,Tom Smith,wallet,alleyway,fled,2024-05-01T14:37:00,Sara Patel fled Tom Smith using a wallet at alleyway around 14:37.
+49,1,robbery,Sara Patel,Tom Smith,wallet,apartment,threatened,2024-05-01T22:26:00,Sara Patel threatened Tom Smith using a wallet at apartment around 22:26.
+49,2,robbery,Sara Patel,Tom Smith,crowbar,apartment,fled,2024-05-01T22:31:00,Sara Patel fled Tom Smith using a crowbar at apartment around 22:31.
+50,1,homicide,John Doe,Nina Park,handgun,apartment,argued with,2024-05-01T02:03:00,John Doe argued with Nina Park using a handgun at apartment around 02:03.
+50,2,homicide,John Doe,Nina Park,handgun,apartment,stabbed,2024-05-01T02:13:00,John Doe stabbed Nina Park using a handgun at apartment around 02:13.
+51,1,robbery,Evan Cole,Robert King,phone,parking lot,fled,2024-05-01T12:43:00,Evan Cole fled Robert King using a phone at parking lot around 12:43.
+51,2,robbery,Evan Cole,Robert King,knife,parking lot,fled,2024-05-01T12:48:00,Evan Cole fled Robert King using a knife at parking lot around 12:48.
+52,1,robbery,Sara Patel,Nina Park,knife,parking lot,stole,2024-05-01T19:32:00,Sara Patel stole Nina Park using a knife at parking lot around 19:32.
+52,2,robbery,Sara Patel,Nina Park,handgun,parking lot,fled,2024-05-01T19:37:00,Sara Patel fled Nina Park using a handgun at parking lot around 19:37.
+53,1,robbery,Marcus Lee,Linda Brown,jewelry,alleyway,fled,2024-05-01T20:23:00,Marcus Lee fled Linda Brown using a jewelry at alleyway around 20:23.
+53,2,robbery,Marcus Lee,Linda Brown,crowbar,alleyway,fled,2024-05-01T20:28:00,Marcus Lee fled Linda Brown using a crowbar at alleyway around 20:28.
+54,1,homicide,Sara Patel,Robert King,phone,parking lot,argued with,2024-05-01T04:42:00,Sara Patel argued with Robert King using a phone at parking lot around 04:42.
+54,2,homicide,Sara Patel,Robert King,jewelry,parking lot,attacked,2024-05-01T04:52:00,Sara Patel attacked Robert King using a jewelry at parking lot around 04:52.
+55,1,robbery,John Doe,Linda Brown,jewelry,convenience store,threatened,2024-05-01T11:42:00,John Doe threatened Linda Brown using a jewelry at convenience store around 11:42.
+55,2,robbery,John Doe,Linda Brown,crowbar,convenience store,fled,2024-05-01T11:47:00,John Doe fled Linda Brown using a crowbar at convenience store around 11:47.
+56,1,robbery,Evan Cole,Robert King,phone,alleyway,fled,2024-05-01T16:36:00,Evan Cole fled Robert King using a phone at alleyway around 16:36.
+56,2,robbery,Evan Cole,Robert King,phone,alleyway,fled,2024-05-01T16:41:00,Evan Cole fled Robert King using a phone at alleyway around 16:41.
+57,1,robbery,Marcus Lee,Tom Smith,handgun,convenience store,threatened,2024-05-01T06:36:00,Marcus Lee threatened Tom Smith using a handgun at convenience store around 06:36.
+57,2,robbery,Marcus Lee,Tom Smith,phone,convenience store,fled,2024-05-01T06:41:00,Marcus Lee fled Tom Smith using a phone at convenience store around 06:41.
+58,1,robbery,Marcus Lee,David Ross,handgun,convenience store,fled,2024-05-01T04:54:00,Marcus Lee fled David Ross using a handgun at convenience store around 04:54.
+58,2,robbery,Marcus Lee,David Ross,knife,convenience store,fled,2024-05-01T04:59:00,Marcus Lee fled David Ross using a knife at convenience store around 04:59.
+59,1,robbery,Evan Cole,Tom Smith,wallet,parking lot,fled,2024-05-01T05:53:00,Evan Cole fled Tom Smith using a wallet at parking lot around 05:53.
+59,2,robbery,Evan Cole,Tom Smith,phone,parking lot,fled,2024-05-01T05:58:00,Evan Cole fled Tom Smith using a phone at parking lot around 05:58.
+60,1,robbery,Marcus Lee,Tom Smith,crowbar,parking lot,stole,2024-05-01T23:09:00,Marcus Lee stole Tom Smith using a crowbar at parking lot around 23:09.
+60,2,robbery,Marcus Lee,Tom Smith,phone,parking lot,fled,2024-05-01T23:14:00,Marcus Lee fled Tom Smith using a phone at parking lot around 23:14.
+61,1,homicide,John Doe,Linda Brown,wallet,convenience store,argued with,2024-05-01T20:48:00,John Doe argued with Linda Brown using a wallet at convenience store around 20:48.
+61,2,homicide,John Doe,Linda Brown,jewelry,convenience store,stabbed,2024-05-01T20:58:00,John Doe stabbed Linda Brown using a jewelry at convenience store around 20:58.
+62,1,robbery,Alice Green,Nina Park,jewelry,apartment,fled,2024-05-01T01:00:00,Alice Green fled Nina Park using a jewelry at apartment around 01:00.
+62,2,robbery,Alice Green,Nina Park,jewelry,apartment,fled,2024-05-01T01:05:00,Alice Green fled Nina Park using a jewelry at apartment around 01:05.
+63,1,homicide,Marcus Lee,Tom Smith,wallet,apartment,argued with,2024-05-01T19:43:00,Marcus Lee argued with Tom Smith using a wallet at apartment around 19:43.
+63,2,homicide,Marcus Lee,Tom Smith,phone,apartment,argued with,2024-05-01T19:53:00,Marcus Lee argued with Tom Smith using a phone at apartment around 19:53.
+64,1,homicide,Alice Green,Nina Park,wallet,convenience store,argued with,2024-05-01T11:57:00,Alice Green argued with Nina Park using a wallet at convenience store around 11:57.
+64,2,homicide,Alice Green,Nina Park,knife,convenience store,argued with,2024-05-01T12:07:00,Alice Green argued with Nina Park using a knife at convenience store around 12:07.
+65,1,robbery,Sara Patel,Linda Brown,crowbar,downtown street,threatened,2024-05-01T09:19:00,Sara Patel threatened Linda Brown using a crowbar at downtown street around 09:19.
+65,2,robbery,Sara Patel,Linda Brown,handgun,downtown street,fled,2024-05-01T09:24:00,Sara Patel fled Linda Brown using a handgun at downtown street around 09:24.
+66,1,homicide,Marcus Lee,Robert King,jewelry,apartment,argued with,2024-05-01T00:04:00,Marcus Lee argued with Robert King using a jewelry at apartment around 00:04.
+66,2,homicide,Marcus Lee,Robert King,wallet,apartment,argued with,2024-05-01T00:14:00,Marcus Lee argued with Robert King using a wallet at apartment around 00:14.
+67,1,homicide,Evan Cole,Tom Smith,phone,parking lot,argued with,2024-05-01T15:24:00,Evan Cole argued with Tom Smith using a phone at parking lot around 15:24.
+67,2,homicide,Evan Cole,Tom Smith,crowbar,parking lot,argued with,2024-05-01T15:34:00,Evan Cole argued with Tom Smith using a crowbar at parking lot around 15:34.
+68,1,robbery,Alice Green,Linda Brown,wallet,parking lot,threatened,2024-05-01T01:19:00,Alice Green threatened Linda Brown using a wallet at parking lot around 01:19.
+68,2,robbery,Alice Green,Linda Brown,phone,parking lot,fled,2024-05-01T01:24:00,Alice Green fled Linda Brown using a phone at parking lot around 01:24.
+69,1,robbery,John Doe,Nina Park,handgun,alleyway,stole,2024-05-01T07:13:00,John Doe stole Nina Park using a handgun at alleyway around 07:13.
+69,2,robbery,John Doe,Nina Park,knife,alleyway,fled,2024-05-01T07:18:00,John Doe fled Nina Park using a knife at alleyway around 07:18.
+70,1,robbery,John Doe,David Ross,jewelry,downtown street,threatened,2024-05-01T08:09:00,John Doe threatened David Ross using a jewelry at downtown street around 08:09.
+70,2,robbery,John Doe,David Ross,crowbar,downtown street,fled,2024-05-01T08:14:00,John Doe fled David Ross using a crowbar at downtown street around 08:14.
+71,1,robbery,Alice Green,Nina Park,knife,downtown street,entered,2024-05-01T12:04:00,Alice Green entered Nina Park using a knife at downtown street around 12:04.
+71,2,robbery,Alice Green,Nina Park,wallet,downtown street,fled,2024-05-01T12:09:00,Alice Green fled Nina Park using a wallet at downtown street around 12:09.
+72,1,homicide,Marcus Lee,Tom Smith,wallet,alleyway,argued with,2024-05-01T14:18:00,Marcus Lee argued with Tom Smith using a wallet at alleyway around 14:18.
+72,2,homicide,Marcus Lee,Tom Smith,jewelry,alleyway,attacked,2024-05-01T14:28:00,Marcus Lee attacked Tom Smith using a jewelry at alleyway around 14:28.
+73,1,robbery,Marcus Lee,Tom Smith,crowbar,parking lot,entered,2024-05-01T10:55:00,Marcus Lee entered Tom Smith using a crowbar at parking lot around 10:55.
+73,2,robbery,Marcus Lee,Tom Smith,crowbar,parking lot,fled,2024-05-01T11:00:00,Marcus Lee fled Tom Smith using a crowbar at parking lot around 11:00.
+74,1,robbery,Marcus Lee,Robert King,jewelry,downtown street,fled,2024-05-01T13:57:00,Marcus Lee fled Robert King using a jewelry at downtown street around 13:57.
+74,2,robbery,Marcus Lee,Robert King,phone,downtown street,fled,2024-05-01T14:02:00,Marcus Lee fled Robert King using a phone at downtown street around 14:02.
+75,1,homicide,Alice Green,Nina Park,knife,alleyway,argued with,2024-05-01T16:32:00,Alice Green argued with Nina Park using a knife at alleyway around 16:32.
+75,2,homicide,Alice Green,Nina Park,knife,alleyway,attacked,2024-05-01T16:42:00,Alice Green attacked Nina Park using a knife at alleyway around 16:42.
+76,1,homicide,Marcus Lee,David Ross,jewelry,alleyway,argued with,2024-05-01T12:05:00,Marcus Lee argued with David Ross using a jewelry at alleyway around 12:05.
+76,2,homicide,Marcus Lee,David Ross,wallet,alleyway,attacked,2024-05-01T12:15:00,Marcus Lee attacked David Ross using a wallet at alleyway around 12:15.
+77,1,robbery,John Doe,Linda Brown,phone,convenience store,stole,2024-05-01T08:15:00,John Doe stole Linda Brown using a phone at convenience store around 08:15.
+77,2,robbery,John Doe,Linda Brown,jewelry,convenience store,fled,2024-05-01T08:20:00,John Doe fled Linda Brown using a jewelry at convenience store around 08:20.
+78,1,homicide,Marcus Lee,Linda Brown,wallet,parking lot,argued with,2024-05-01T14:38:00,Marcus Lee argued with Linda Brown using a wallet at parking lot around 14:38.
+78,2,homicide,Marcus Lee,Linda Brown,phone,parking lot,argued with,2024-05-01T14:48:00,Marcus Lee argued with Linda Brown using a phone at parking lot around 14:48.
+79,1,homicide,John Doe,David Ross,handgun,alleyway,argued with,2024-05-01T08:51:00,John Doe argued with David Ross using a handgun at alleyway around 08:51.
+79,2,homicide,John Doe,David Ross,jewelry,alleyway,stabbed,2024-05-01T09:01:00,John Doe stabbed David Ross using a jewelry at alleyway around 09:01.
+80,1,robbery,John Doe,David Ross,knife,convenience store,fled,2024-05-01T21:14:00,John Doe fled David Ross using a knife at convenience store around 21:14.
+80,2,robbery,John Doe,David Ross,handgun,convenience store,fled,2024-05-01T21:19:00,John Doe fled David Ross using a handgun at convenience store around 21:19.
+81,1,homicide,Alice Green,Robert King,jewelry,convenience store,argued with,2024-05-01T08:11:00,Alice Green argued with Robert King using a jewelry at convenience store around 08:11.
+81,2,homicide,Alice Green,Robert King,handgun,convenience store,attacked,2024-05-01T08:21:00,Alice Green attacked Robert King using a handgun at convenience store around 08:21.
+82,1,robbery,Alice Green,Tom Smith,jewelry,parking lot,stole,2024-05-01T07:29:00,Alice Green stole Tom Smith using a jewelry at parking lot around 07:29.
+82,2,robbery,Alice Green,Tom Smith,jewelry,parking lot,fled,2024-05-01T07:34:00,Alice Green fled Tom Smith using a jewelry at parking lot around 07:34.
+83,1,robbery,Evan Cole,Linda Brown,crowbar,parking lot,fled,2024-05-01T13:26:00,Evan Cole fled Linda Brown using a crowbar at parking lot around 13:26.
+83,2,robbery,Evan Cole,Linda Brown,handgun,parking lot,fled,2024-05-01T13:31:00,Evan Cole fled Linda Brown using a handgun at parking lot around 13:31.
+84,1,homicide,Sara Patel,Linda Brown,wallet,apartment,argued with,2024-05-01T07:40:00,Sara Patel argued with Linda Brown using a wallet at apartment around 07:40.
+84,2,homicide,Sara Patel,Linda Brown,wallet,apartment,argued with,2024-05-01T07:50:00,Sara Patel argued with Linda Brown using a wallet at apartment around 07:50.
+85,1,homicide,Alice Green,Robert King,wallet,parking lot,argued with,2024-05-01T02:36:00,Alice Green argued with Robert King using a wallet at parking lot around 02:36.
+85,2,homicide,Alice Green,Robert King,phone,parking lot,argued with,2024-05-01T02:46:00,Alice Green argued with Robert King using a phone at parking lot around 02:46.
+86,1,robbery,Sara Patel,David Ross,handgun,downtown street,threatened,2024-05-01T01:13:00,Sara Patel threatened David Ross using a handgun at downtown street around 01:13.
+86,2,robbery,Sara Patel,David Ross,jewelry,downtown street,fled,2024-05-01T01:18:00,Sara Patel fled David Ross using a jewelry at downtown street around 01:18.
+87,1,robbery,Sara Patel,Linda Brown,wallet,downtown street,entered,2024-05-01T13:58:00,Sara Patel entered Linda Brown using a wallet at downtown street around 13:58.
+87,2,robbery,Sara Patel,Linda Brown,handgun,downtown street,fled,2024-05-01T14:03:00,Sara Patel fled Linda Brown using a handgun at downtown street around 14:03.
+88,1,homicide,John Doe,Tom Smith,crowbar,downtown street,argued with,2024-05-01T18:57:00,John Doe argued with Tom Smith using a crowbar at downtown street around 18:57.
+88,2,homicide,John Doe,Tom Smith,phone,downtown street,shot,2024-05-01T19:07:00,John Doe shot Tom Smith using a phone at downtown street around 19:07.
+89,1,robbery,Marcus Lee,Nina Park,handgun,apartment,stole,2024-05-01T09:40:00,Marcus Lee stole Nina Park using a handgun at apartment around 09:40.
+89,2,robbery,Marcus Lee,Nina Park,phone,apartment,fled,2024-05-01T09:45:00,Marcus Lee fled Nina Park using a phone at apartment around 09:45.
+90,1,homicide,Sara Patel,Tom Smith,wallet,apartment,argued with,2024-05-01T12:38:00,Sara Patel argued with Tom Smith using a wallet at apartment around 12:38.
+90,2,homicide,Sara Patel,Tom Smith,crowbar,apartment,attacked,2024-05-01T12:48:00,Sara Patel attacked Tom Smith using a crowbar at apartment around 12:48.
+91,1,robbery,Marcus Lee,Tom Smith,handgun,downtown street,entered,2024-05-01T22:12:00,Marcus Lee entered Tom Smith using a handgun at downtown street around 22:12.
+91,2,robbery,Marcus Lee,Tom Smith,knife,downtown street,fled,2024-05-01T22:17:00,Marcus Lee fled Tom Smith using a knife at downtown street around 22:17.
+92,1,robbery,Sara Patel,Nina Park,handgun,apartment,fled,2024-05-01T10:25:00,Sara Patel fled Nina Park using a handgun at apartment around 10:25.
+92,2,robbery,Sara Patel,Nina Park,crowbar,apartment,fled,2024-05-01T10:30:00,Sara Patel fled Nina Park using a crowbar at apartment around 10:30.
+93,1,robbery,Evan Cole,Linda Brown,handgun,downtown street,entered,2024-05-01T17:26:00,Evan Cole entered Linda Brown using a handgun at downtown street around 17:26.
+93,2,robbery,Evan Cole,Linda Brown,handgun,downtown street,fled,2024-05-01T17:31:00,Evan Cole fled Linda Brown using a handgun at downtown street around 17:31.
+94,1,homicide,Marcus Lee,David Ross,knife,downtown street,argued with,2024-05-01T00:20:00,Marcus Lee argued with David Ross using a knife at downtown street around 00:20.
+94,2,homicide,Marcus Lee,David Ross,handgun,downtown street,argued with,2024-05-01T00:30:00,Marcus Lee argued with David Ross using a handgun at downtown street around 00:30.
+95,1,robbery,Evan Cole,David Ross,crowbar,convenience store,stole,2024-05-01T02:15:00,Evan Cole stole David Ross using a crowbar at convenience store around 02:15.
+95,2,robbery,Evan Cole,David Ross,knife,convenience store,fled,2024-05-01T02:20:00,Evan Cole fled David Ross using a knife at convenience store around 02:20.
+96,1,homicide,Sara Patel,Tom Smith,knife,downtown street,argued with,2024-05-01T14:11:00,Sara Patel argued with Tom Smith using a knife at downtown street around 14:11.
+96,2,homicide,Sara Patel,Tom Smith,wallet,downtown street,shot,2024-05-01T14:21:00,Sara Patel shot Tom Smith using a wallet at downtown street around 14:21.
+97,1,robbery,Sara Patel,Linda Brown,handgun,convenience store,threatened,2024-05-01T15:47:00,Sara Patel threatened Linda Brown using a handgun at convenience store around 15:47.
+97,2,robbery,Sara Patel,Linda Brown,crowbar,convenience store,fled,2024-05-01T15:52:00,Sara Patel fled Linda Brown using a crowbar at convenience store around 15:52.
+98,1,homicide,John Doe,Linda Brown,phone,apartment,argued with,2024-05-01T02:28:00,John Doe argued with Linda Brown using a phone at apartment around 02:28.
+98,2,homicide,John Doe,Linda Brown,phone,apartment,stabbed,2024-05-01T02:38:00,John Doe stabbed Linda Brown using a phone at apartment around 02:38.
+99,1,homicide,Alice Green,Linda Brown,jewelry,downtown street,argued with,2024-05-01T14:24:00,Alice Green argued with Linda Brown using a jewelry at downtown street around 14:24.
+99,2,homicide,Alice Green,Linda Brown,crowbar,downtown street,shot,2024-05-01T14:34:00,Alice Green shot Linda Brown using a crowbar at downtown street around 14:34.
+100,1,robbery,Marcus Lee,Tom Smith,jewelry,alleyway,entered,2024-05-01T20:40:00,Marcus Lee entered Tom Smith using a jewelry at alleyway around 20:40.
+100,2,robbery,Marcus Lee,Tom Smith,phone,alleyway,fled,2024-05-01T20:45:00,Marcus Lee fled Tom Smith using a phone at alleyway around 20:45.
+101,1,homicide,Sara Patel,Tom Smith,phone,convenience store,argued with,2024-05-01T03:49:00,Sara Patel argued with Tom Smith using a phone at convenience store around 03:49.
+101,2,homicide,Sara Patel,Tom Smith,knife,convenience store,argued with,2024-05-01T03:59:00,Sara Patel argued with Tom Smith using a knife at convenience store around 03:59.
