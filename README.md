@@ -1,9 +1,6 @@
 # 🕵️‍♀️ CrimeLens — Intelligent Crime Scene Reconstruction
 
 **Author:** Rohit Bogulla
-**Course:** Applied Machine Learning II (EEE 6778)  
-**Deliverable 1:** From Pitch to Prototype – Foundation and Design Blueprint  
-**Date:** October 19 2025  
 
 ---
 
@@ -57,6 +54,16 @@ jupyter notebook notebooks/setup.ipynb
 ```
 streamlit run ui/app.py
 ```
+
+### Whisper & Audio Requirements
+If using Whisper for audio transcription:
+```
+⁠bash
+pip install openai-whisper torch tqdm
+conda install -c conda-forge ffmpeg
+```
+
+
 ## 🧠 Data Sources
 
 | **Type** | **Source** | **Usage** |
@@ -114,6 +121,7 @@ Provenance tracking, transparency, and interpretability are prioritized to ensur
 3. Hamilton, W. et al. (2017). *Inductive Representation Learning on Large Graphs (GraphSAGE)*.  
 4. Vaswani, A. et al. (2017). *Attention Is All You Need*.  
 5. Ho, J., Jain, A., & Abbeel, P. (2020). *Denoising Diffusion Probabilistic Models*.
+6. Arthur Train. True Stories of Crime from the District Attorney’s Office. LibriVox Public Domain Audiobook, read by Colleen McMahon. https://librivox.org/true-stories-of-crime-by-arthur-train/
 
 ---
 
