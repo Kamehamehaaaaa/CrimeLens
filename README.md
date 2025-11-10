@@ -81,7 +81,7 @@ jupyter notebook notebooks/setup.ipynb
 	
 ### 3️⃣ Preview UI (optional)
 ```
-streamlit run ui/app.py
+streamlit run notebooks/ui/app2.py
 ```
 
 ### Whisper & Audio Requirements
