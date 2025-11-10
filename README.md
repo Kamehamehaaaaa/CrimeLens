@@ -13,24 +13,53 @@ By combining **Whisper-based transcription**, **graph neural networks**, and **t
 ## 🧩 Repository Structure
 ```
 CrimeLens/
-├── data/                # raw or sample data
-│   ├── sample_transcripts.csv
+├── 📂 data/                          # Input and reference datasets
 │   ├── chicago_incidents_sample.csv
-│   └── synthetic_crime_scenes.csv
-├── notebooks/           # Jupyter notebooks
-│   ├── setup.ipynb              # verifies env, loads data, plots
-│   ├── graph_quicklook.ipynb    # inspects JSON evidence graph
-│   └── whisper_transcription.ipynb      # Whisper transcription
-├── src/                 # helper scripts
-│   ├── data_utils.py
-│   └── graph_builder.py
-│   └── syntheticData.py
-├── ui/                  # Streamlit placeholder
-│   └── app.py
-├── results/             # exploratory outputs
-├── docs/                # diagrams or visuals (project_idea, progress1)
-├── requirements.txt     # minimal pip dependencies
-└── README.md            # project overview
+│   ├── crimelens_graph.json
+│   ├── sample_transcripts.csv
+│   ├── synthetic_crime_scenes.csv
+│   ├── true_stories_transcript.csv
+│   ├── truestoriesofcrime_01_train_64kb.mp3
+│   └── truestoriesofcrime_1808_librivox/   # Raw LibriVox audio segments
+│
+├── 📂 docs/                          # Documentation and deliverables
+│   ├── Project_Deliverable_1.pdf
+│   └── README.md
+│
+├── 📂 models/                        # Trained models and saved artifacts
+│   ├── edge_index_shape.npy
+│   ├── embeddings.npy
+│   ├── gnn_model.pt                  # Main GraphSAGE checkpoint
+│   ├── gnn_model_1.pt                # Experimental variant
+│   ├── graph.pkl                     # Serialized NetworkX graph
+│   ├── meta.json                     # Model metadata (dims, settings)
+│   ├── nid.npy
+│   ├── nodes.npy
+│   └── README.md
+│
+├── 📂 notebooks/                     # Jupyter Notebooks for experimentation
+│   ├── setup1.ipynb                  # Environment setup and data checks
+│   ├── 02_graphlearning_trail.ipynb  # Graph construction + GraphSAGE training
+│   ├── 03_interface_explorer_notebook.ipynb # Streamlit integration + visualization
+│   └── cooccurrence_graph.png        # Output figure from Notebook 2
+│
+├── 📂 results/                       # Generated outputs, figures, and CSVs
+│   ├── cooccurrence_graph.png
+│   ├── top_degree_nodes.csv
+│   ├── top_predicted_links.csv
+│   ├── test2.ipynb
+│   ├── trial_model.ipynb
+│   └── README.md
+│
+├── 📂 ui/                            # Streamlit application
+│   ├── app.py                        # Main prototype UI
+│   └── assets/ (optional)            # Local image/icons for the dashboard
+│
+├── 📂 src/                           # Placeholder for core Python modules
+│
+├── requirements.txt                  # Python dependencies
+├── README.md                         # Main project overview
+└── .gitignore                        # (recommended) Git tracking rules
 ```
 ---
 

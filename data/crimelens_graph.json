@@ -1,0 +1,28 @@
+{
+  "nodes": [
+    {
+      "id": "suspect_A",
+      "type": "person"
+    },
+    {
+      "id": "object_X",
+      "type": "evidence"
+    },
+    {
+      "id": "room_2",
+      "type": "location"
+    }
+  ],
+  "edges": [
+    {
+      "source": "suspect_A",
+      "target": "object_X",
+      "relation": "touched"
+    },
+    {
+      "source": "object_X",
+      "target": "room_2",
+      "relation": "found_in"
+    }
+  ]
+}
