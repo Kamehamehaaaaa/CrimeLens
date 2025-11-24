@@ -1,0 +1,7 @@
+Entity Type,NER-Based,Heuristic
+Suspect,66.7%,60%
+Victim,66.7%,50%
+Action,83.3%,80%
+Object,66.7%,65%
+Location,100.0%,70%
+Overall,76.7%,65%

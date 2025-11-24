@@ -1,0 +1,32 @@
+======================================================================
+CRIMELENS EXPERIMENT SUMMARY
+======================================================================
+
+
+Dataset
+----------------------------------------
+  Total Scenes: 200
+  Total Events: 572
+  Train/Val/Test Split: 140/20/40
+  Crime Types: 5
+  Unique Persons: 16
+  Unique Objects: 19
+  Unique Locations: 14
+
+Model
+----------------------------------------
+  Architecture: Heterogeneous GraphSAGE
+  Hidden Dimension: 64
+  Layers: 3
+  Parameters: 144903
+
+Training
+----------------------------------------
+  Epochs (actual): 0
+  Best Val Accuracy: 0.250
+
+Test Results
+----------------------------------------
+  Crime Classification Accuracy: 0.175
+  Suspect Ranking AUC: 0.48660714285714285
+  Suspect Ranking AP: 0.4894429674281991

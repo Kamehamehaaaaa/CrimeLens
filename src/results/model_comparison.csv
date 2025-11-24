@@ -1,0 +1,4 @@
+Model,Accuracy
+Logistic Regression,0.970
+Random Forest,0.980
+GNN (Ours),0.800

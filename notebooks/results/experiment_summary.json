@@ -1,0 +1,18 @@
+{
+  "dataset": {
+    "total_scenes": 1500,
+    "train": 1020,
+    "val": 180,
+    "test": 300
+  },
+  "model": {
+    "parameters": 126598,
+    "hidden_dim": 128
+  },
+  "results": {
+    "gnn_accuracy": 0.98,
+    "Logistic Regression": 0.9866666666666667,
+    "Random Forest": 0.9966666666666667,
+    "GNN (Ours)": 0.98
+  }
+}
